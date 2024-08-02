@@ -25,9 +25,9 @@ variables correspondientes.
     <li>Variables booleanas para el manejo de la disponibilidad de tenedores</li>
   </ul>
 </p>
-<img src="images/filosofos1.PNG" width: "200" height: "200" />
-<img src="images/filosofos2.PNG" width: "200" height: "200" />
-<img src="images/filosofos3.PNG" width: "200" height: "200" />
+<img src="images/filosofos1.PNG" width="500" height="400" />
+<img src="images/filosofos2.PNG" width="500" height="400" />
+<img src="images/filosofos3.PNG" width="500" height="400" />
 <p>Fuente: Stallings, W. (2005). Sistemas Operativos (5ta ed.). Pearson.</p>
 
 ## Semáforos
@@ -44,8 +44,8 @@ transmitido todavía, el proceso se suspenderá hasta que la transmisión tenga 
 <p>Un semáforo puede ser inicializado a un valor no negativo. La operación semWait decrementa el valor del semáforo. Si el valor pasa a ser negativo, entonces el
 proceso que está ejecutando semWait se bloquea. En otro caso, el proceso continúa su ejecución. La operación semSignal incrementa el valor del semáforo. Si el valor es menor o igual que cero, entonces
 se desbloquea uno de los procesos bloqueados en la operación semWait. Aparte de estas tres operaciones no hay manera de inspeccionar o manipular un semáforo.</p>
-<img src="images/Semaforos1.PNG" width: "200" height: "200" />
-<img src="images/Semaforos2.PNG" width: "200" height: "200" />
+<img src="images/Semaforos1.PNG" width="500" height="400" />
+<img src="images/Semaforos2.PNG" width="500" height="400" />
 
 <p>Fuentes:</p>
 <p>Stallings, W. (2005). Sistemas Operativos (5ta ed.). Pearson.</p>
