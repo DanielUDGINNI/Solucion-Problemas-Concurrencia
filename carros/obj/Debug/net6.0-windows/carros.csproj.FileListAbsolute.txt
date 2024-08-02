@@ -1,0 +1,17 @@
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\bin\Debug\net6.0-windows\carros.exe
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\bin\Debug\net6.0-windows\carros.deps.json
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\bin\Debug\net6.0-windows\carros.runtimeconfig.json
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\bin\Debug\net6.0-windows\carros.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\bin\Debug\net6.0-windows\carros.pdb
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.Form1.resources
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.Properties.Resources.resources
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.csproj.GenerateResource.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.AssemblyInfoInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.AssemblyInfo.cs
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.csproj.CoreCompileInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\refint\carros.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.pdb
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\carros.genruntimeconfig.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\carros\obj\Debug\net6.0-windows\ref\carros.dll

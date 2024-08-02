@@ -1,0 +1,16 @@
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\bin\Debug\net6.0-windows\filosofosando.exe
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\bin\Debug\net6.0-windows\filosofosando.deps.json
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\bin\Debug\net6.0-windows\filosofosando.runtimeconfig.json
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\bin\Debug\net6.0-windows\filosofosando.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\bin\Debug\net6.0-windows\filosofosando.pdb
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.Form1.resources
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.csproj.GenerateResource.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.AssemblyInfoInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.AssemblyInfo.cs
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.csproj.CoreCompileInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\refint\filosofosando.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.pdb
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\filosofosando.genruntimeconfig.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\filosofosando\obj\Debug\net6.0-windows\ref\filosofosando.dll
