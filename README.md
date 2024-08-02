@@ -25,6 +25,9 @@ variables correspondientes.
     <li>Variables booleanas para el manejo de la disponibilidad de tenedores</li>
   </ul>
 </p>
+<img src="images/filosofos1.PNG" width: "300" height: "200" />
+<img src="images/filosofos2.PNG" width: "300" height: "200" />
+<img src="images/filosofos3.PNG" width: "300" height: "200" />
 <p>Fuente: Stallings, W. (2005). Sistemas Operativos (5ta ed.). Pearson.</p>
 
 ## Semáforos
@@ -46,7 +49,8 @@ La operación semSignal incrementa el valor del semáforo. Si el valor es menor 
 se desbloquea uno de los procesos bloqueados en la operación semWait.
 Aparte de estas tres operaciones no hay manera de inspeccionar o manipular un semáforo.</p>
 
-
+<img src="images/semaforos1.PNG" width: "400" height: "300" />
+<img src="images/semaforos2.PNG" width: "400" height: "300" />
 
 <p>Fuentes:</p>
 <p>Stallings, W. (2005). Sistemas Operativos (5ta ed.). Pearson.</p>
