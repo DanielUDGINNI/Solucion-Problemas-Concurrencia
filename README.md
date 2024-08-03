@@ -54,3 +54,38 @@ se desbloquea uno de los procesos bloqueados en la operación semWait. Aparte de
 <p>Tanenbaum, A. S. (2009). SISTEMAS OPERATIVOS MODERNOS (3a. ed.).PEARSON EDUCACIÓN,
 México,</p>
 
+## Banquero
+<p>El Algoritmo del banquero, en sistemas operativos es una forma de evitar el interbloqueo, propuesta por
+primera vez por Edsger Dijkstra. Es un acercamiento teórico para evitar los interbloqueos en la
+planificación de recursos. Requiere conocer con anticipación los recursos que serán utilizados por todos
+los procesos. Esto último generalmente no puede ser satisfecho en la práctica. Este algoritmo usualmente
+es explicado usando la analogía con el funcionamiento de un banco. Los clientes representan a los
+procesos, que tienen un crédito límite, y el dinero representa a los recursos.</p><p>El banquero es el sistema
+operativo. El banco confía en que no tendrá que permitir a todos sus clientes la utilización de todo su
+crédito a la vez. El banco también asume que si un cliente maximiza su crédito será capaz de terminar sus
+negocios y retornar el dinero de vuelta a la entidad, permitiendo servir a otros clientes. </p> <p>El algoritmo
+mantiene al sistema en un estado seguro. Un sistema se encuentra en un estado seguro si existe un orden
+en que pueden concederse las peticiones de recursos a todos los procesos, previniendo el interbloqueo. El
+algoritmo del banquero funciona encontrando estados de este tipo. Los procesos piden recursos, y son
+complacidos siempre y cuando el sistema se mantenga en un estado seguro después de la concesión. De lo
+contrario, el proceso es suspendido hasta que otro proceso libere recursos suficientes.</p>
+
+## Solución
+<p>La solución y propuesta del algoritmo del banquero la estoy basando en un estado seguro del banco en
+donde tiene un tamaño fijo de recursos y un límite de entrega de recursos, donde si los recursos (dinero)
+que piden los procesos (clientes) rebasa y dejaría en un estado inseguro entonces no se puede otorgar
+dinero. Los clientes regresan cierta cantidad de dinero de forma aleatoria, liberando recursos para que
+otros clientes puedan seguir pidiendo y que el dinero circule. Se tiene variable booleana para indicar el
+estado del banco, una lista con cuentas de los clientes iniciadas en 0. El timer va a controlar cada petición
+de los procesos como obtener o regresar dinero.</p>
+
+<img src="images/banco01.PNG" width="500" height="400" />
+<img src="images/banco02.PNG" width="500" height="400" />
+
+<p>Fuente</p>
+Reyes Brañez, Mario. Algoritmo del banquero : aplicado al sistema visado de poderes caso BBVA Banco
+Continental. (2011). Universidad Mayor de San Marcos.
+https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/13878/Branez_Reyes_Marlon_2011.pdf?sequence=1&isAllowed=y
+
+
+
