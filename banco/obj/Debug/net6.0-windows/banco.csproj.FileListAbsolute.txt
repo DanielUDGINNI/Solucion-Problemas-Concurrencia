@@ -1,0 +1,17 @@
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\bin\Debug\net6.0-windows\banco.exe
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\bin\Debug\net6.0-windows\banco.deps.json
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\bin\Debug\net6.0-windows\banco.runtimeconfig.json
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\bin\Debug\net6.0-windows\banco.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\bin\Debug\net6.0-windows\banco.pdb
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.Form1.resources
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.Properties.Resources.resources
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.csproj.GenerateResource.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.AssemblyInfoInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.AssemblyInfo.cs
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.csproj.CoreCompileInputs.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\refint\banco.dll
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.pdb
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\banco.genruntimeconfig.cache
+C:\Users\misae\OneDrive\Documentos\Dell\CUCEI\Sem Sistemas Operativos\banco\obj\Debug\net6.0-windows\ref\banco.dll
